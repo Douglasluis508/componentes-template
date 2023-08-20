@@ -4,3 +4,25 @@
 }
 
 
+img{
+  height: 20vh;
+  
+}
+
+header {
+  width: 100vw;
+  background-color: blueviolet;
+}
+
+footer {
+  border: solid 1px black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: blueviolet;
+}
+
+.App{
+  background-color: aqua;
+}
